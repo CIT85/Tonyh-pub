@@ -10,3 +10,51 @@ color: rgb(231, 208, 0);
  a {
     color: aliceblue;
  }
+
+ .asb{
+   margin: rem auto;
+   background-color:ED7D31;
+   width: 200px;
+   height: 150px;
+   border: 2px;
+   border-radius: 15%;
+   outline: 2px solid #000000;
+   outline-offset: 2;
+
+}
+
+.pb {
+      margin: rem auto;
+      background-color:6C5F5B;
+      width: 200px;
+      height: 150px;
+      border: 2px;
+      border-radius: 15%;
+      outline: 2px solid #000000;
+      outline-offset: 2;
+   
+}
+
+.yo {
+   margin: rem auto;
+   background-color:64F4A45;
+   width: 200px;
+   height: 150px;
+   border: 2px;
+   border-radius: 15%;
+   outline: 2px solid #000000;
+   outline-offset: 2;
+
+}
+
+.bb {
+   margin: rem auto;
+   background-color:#F6F1EE;
+   width: 200px;
+   height: 150px;
+   border: 2px;
+   border-radius: 15%;
+   outline: 2px solid #000000;
+   outline-offset: 2;
+
+}
